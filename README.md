@@ -6,3 +6,4 @@
 - [https://kristiemeon25.quora.com/Why-Did-Concords-Open-Beta-Fail-to-Attract-Players](https://kristiemeon25.quora.com/Why-Did-Concords-Open-Beta-Fail-to-Attract-Players)
 - [https://medium.com/@KristieMeon25/concords-open-beta-registers-only-1100-players-on-first-day-a-disappointing-start-c91536ae0e12](https://medium.com/@KristieMeon25/concords-open-beta-registers-only-1100-players-on-first-day-a-disappointing-start-c91536ae0e12)
 - [https://www.youtube.com/watch?v=n4vDYZ16PME](https://www.youtube.com/watch?v=n4vDYZ16PME)
+- [https://kristiemeon25.github.io/](https://kristiemeon25.github.io/)
